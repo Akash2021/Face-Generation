@@ -1,7 +1,6 @@
 # Face-Generation
 In this project, we will use pytorch to create generative adversarial networks to generate new images of faces. We will be using the CelebFaces Attributes 
-Dataset (CelebA) to train your adversarial network. [To download the dataset click here](https://s3.amazonaws.com/video.udacity-data.com/
-topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip). This is a zip file that you'll need to extract in the 
+Dataset (CelebA) to train your adversarial network. [To download the dataset click here](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip). This is a zip file that you'll need to extract in the 
 home directory of this notebook for further loading and processing. After extracting the data, you should be left with a directory of data
 processed_celeba_small/.
 
