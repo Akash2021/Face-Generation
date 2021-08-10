@@ -4,6 +4,9 @@ Dataset (CelebA) to train your adversarial network. [To download the dataset cli
 home directory of this notebook for further loading and processing. After extracting the data, you should be left with a directory of data
 processed_celeba_small/.
 
+### How training happens
+<img src="./f1.png" width="600">
+
 #Dependencies
 Download the latest version of miniconda that matches your system.
 Install miniconda on your machine. Detailed instructions:  
@@ -60,3 +63,7 @@ Install a few required pip packages, which are specified in the requirements tex
 pip install -r requirements.txt
 ```
 Now you can start working on the project use jupyter to either load a notebook or create a new untitled norebook 
+
+### Final Result
+
+<img src="./f2.PNG" width="600">
